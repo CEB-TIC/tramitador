@@ -111,14 +111,14 @@ div[data-v-74e1c872] {
       ".               EMAIL_USUARI        EMAIL_USUARI          EMAIL_USUARI"
       "errorMessage    errorMessage        errorMessage          errorMessage"
   }
-.layoutBase-grid[data-v-13f770ac] {
+.layoutBase-grid[data-v-8510f3cc] {
   display: grid;
   grid-template-areas: "logo title menu" "content content content";
   grid-template-columns: 220px 360px auto;
   grid-template-rows: 87px auto;
   min-height: 100%;
 }
-.layoutBase-logo[data-v-13f770ac] {
+.layoutBase-logo[data-v-8510f3cc] {
   grid-area: logo;
   display: flex;
   align-items: center;
@@ -127,26 +127,26 @@ div[data-v-74e1c872] {
   margin-top: 8px;
   padding: 0;
 }
-.layoutBase-title[data-v-13f770ac] {
+.layoutBase-title[data-v-8510f3cc] {
   grid-area: title;
   max-height: 95px;
   margin: 0;
   overflow: hidden;
 }
-.layoutBase-appTitle[data-v-13f770ac] {
+.layoutBase-appTitle[data-v-8510f3cc] {
   font-size: 28px;
   color: var(--theme-primary, #0078d4);
 }
-.layoutBase-subtitle[data-v-13f770ac] {
+.layoutBase-subtitle[data-v-8510f3cc] {
   font-size: 18px;
   color: var(--theme-secondary, #2b88d8);
 }
-.layoutBase-menu[data-v-13f770ac] {
+.layoutBase-menu[data-v-8510f3cc] {
   grid-area: menu;
   max-height: 100px;
   width: 95%;
 }
-.layoutBase-content[data-v-13f770ac] {
+.layoutBase-content[data-v-8510f3cc] {
   position: relative;
   grid-area: content;
   border-top: 2px solid var(--theme-primary, #0078d4);
@@ -513,7 +513,7 @@ div[data-v-74e1c872] {
   max-width: calc(100% - 20px);
 }
 
-.layout[data-v-78f70d50] {
+.layout[data-v-18a39c1e] {
   box-sizing: border-box;
   overflow: auto;
   margin: 0;
@@ -523,29 +523,29 @@ div[data-v-74e1c872] {
   align-items: center;
   justify-content: center;
 }
-.label[data-v-78f70d50] {
+.label[data-v-18a39c1e] {
   font-family: "Segoe UI WestEuropean", "Segoe UI", -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", sans-serif;
   width: 300px;
   text-align: center;
   margin-bottom: 24px;
 }
-.logo[data-v-78f70d50] {
+.logo[data-v-18a39c1e] {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 30px;
 }
-.form[data-v-78f70d50] {
+.form[data-v-18a39c1e] {
   width: 300px;
 }
-.buttons[data-v-78f70d50] {
+.buttons[data-v-18a39c1e] {
   margin-top: 25px;
 }
-.recovery[data-v-78f70d50] {
+.recovery[data-v-18a39c1e] {
   margin-top: 10px;
 }
 
-.layout[data-v-69309d83] {
+.layout[data-v-6ef9c87e] {
   box-sizing: border-box;
   overflow: auto;
   margin: 0;
@@ -555,26 +555,26 @@ div[data-v-74e1c872] {
   align-items: center;
   justify-content: center;
 }
-.label[data-v-69309d83] {
+.label[data-v-6ef9c87e] {
   font-family: "Segoe UI WestEuropean", "Segoe UI", -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", sans-serif;
   width: 300px;
   text-align: center;
   margin-bottom: 24px;
 }
-.logo[data-v-69309d83] {
+.logo[data-v-6ef9c87e] {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 30px;
 }
-.form[data-v-69309d83] {
+.form[data-v-6ef9c87e] {
   width: 300px;
 }
-.buttons[data-v-69309d83] {
+.buttons[data-v-6ef9c87e] {
   margin-top: 25px;
 }
 
-.layout[data-v-b5c0178e] {
+.layout[data-v-f6b4e4ce] {
   box-sizing: border-box;
   overflow: auto;
   margin: 0;
@@ -584,26 +584,26 @@ div[data-v-74e1c872] {
   align-items: center;
   justify-content: center;
 }
-.label[data-v-b5c0178e] {
+.label[data-v-f6b4e4ce] {
   font-family: "Segoe UI WestEuropean", "Segoe UI", -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", sans-serif;
   width: 300px;
   text-align: center;
   margin-bottom: 24px;
 }
-.logo[data-v-b5c0178e] {
+.logo[data-v-f6b4e4ce] {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 30px;
 }
-.form[data-v-b5c0178e] {
+.form[data-v-f6b4e4ce] {
   width: 300px;
 }
-.buttons[data-v-b5c0178e] {
+.buttons[data-v-f6b4e4ce] {
   margin-top: 25px;
 }
 
-.layout[data-v-71177562] {
+.layout[data-v-328f1e94] {
   box-sizing: border-box;
   overflow: auto;
   margin: 0;
@@ -613,25 +613,25 @@ div[data-v-74e1c872] {
   align-items: center;
   justify-content: center;
 }
-.label[data-v-71177562] {
+.label[data-v-328f1e94] {
   font-family: "Segoe UI WestEuropean", "Segoe UI", -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", sans-serif;
   width: 300px;
   text-align: center;
   margin-bottom: 24px;
 }
-.logo[data-v-71177562] {
+.logo[data-v-328f1e94] {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 30px;
 }
-.form[data-v-71177562] {
+.form[data-v-328f1e94] {
   width: 300px;
 }
-.buttons[data-v-71177562] {
+.buttons[data-v-328f1e94] {
   margin-top: 25px;
 }
-.recovery[data-v-71177562] {
+.recovery[data-v-328f1e94] {
   margin-top: 10px;
 }
 
